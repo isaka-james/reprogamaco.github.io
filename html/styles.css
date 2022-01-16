@@ -1,0 +1,117 @@
+/*  Fonts
+-----
+font-family: 'Lora', serif;
+font-family: 'Ubuntu', sans-serif;
+*/
+
+body {
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1.6;
+}
+#e{
+   max-width: 40%;
+}
+
+#txt-head{
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    color: #1792d2;
+    font-size: 1.7em;
+    margin-left: 2em;
+    margin-right: .5em;
+    
+}
+#head{
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    color: #1792d2;
+    font-size: 1.5em;
+    margin-left: 2em;
+    margin-right: .9em;
+}
+#wp{
+   max-width: 30%;
+}
+
+#no-list{
+    margin-left: 7em;
+    padding: 2em;
+}
+
+/* =================
+Typography
+================= */
+
+h1, 
+h2,
+h3 {
+    font-family: 'Lora', serif;
+    font-weight: 400;
+    color: #143774;
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+h3 {
+    color: #1792d2;
+}
+
+
+strong {
+    font-weight: 700;
+}
+/* h1 subtitle */
+.subtitle {
+    font-weight: 700;
+    color: #1792d2;
+    font-size: .75rem;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+header {
+    background: #f8f8f8;
+    padding: 2em 0;
+    text-align: center;
+    margin-bottom: 3em;
+}
+footer {
+    background:#143774;
+    color: white;
+    text-align: center;
+    padding: 3em 0;
+}
+/* navigation */
+
+nav ul {
+   
+    padding: 0;
+    justify-content: center;
+}
+
+nav li {
+    margin-left: 5.7em;
+    margin-right: 3em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
