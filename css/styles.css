@@ -263,7 +263,7 @@ nav a:focus {
         order: -2;
         min-height: 250px;
         object-fit: cover;
-        /* object-position: left; */
+        
     }
     
     .article-info {
